@@ -91,7 +91,6 @@ CREATE TABLE students (
     password VARCHAR(255) NOT NULL
 );
 ```
-![](screenshot/student%20info.png)
 ---
 
 ## Installation
